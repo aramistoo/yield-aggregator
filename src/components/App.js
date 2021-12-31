@@ -197,7 +197,7 @@ class App extends Component {
 							<div className="col">
 								<h1 className="my-5">Yield Aggregator</h1>
 								<a
-									href="http://www.dappuniversity.com/bootcamp"
+									href="http://www.ibak.com"
 									target="_blank"
 									rel="noopener noreferrer"
 								>
